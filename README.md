@@ -2,6 +2,9 @@
 ## 🚀 Demo Link
 
 [https://panel.smmpanelbdlab.com/demo-binance-pay](https://panel.smmpanelbdlab.com/demo-binance-pay)
+
+## [Developer Docu](https://smmpanelbdlab.com/binance-developer-docu)
+[https://smmpanelbdlab.com/binance-developer-docu](https://smmpanelbdlab.com/binance-developer-docu)
 ---
 
 ---
