@@ -45,6 +45,8 @@ Already have an account? **[Login here](https://panel.smmpanelbdlab.com)**
 
 > ⚡ Instant order verification using Binance API & license keys.
 
+![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?logo=php&logoColor=white)
+
 ## 🚀 Demo Screenshot
 
 ![Binance Pay Demo](https://i.postimg.cc/bJ0JB4w6/11.png)
