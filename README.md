@@ -1,4 +1,10 @@
 ---
+## 🚀 Demo Link
+
+[https://panel.smmpanelbdlab.com/demo-binance-pay](https://panel.smmpanelbdlab.com/demo-binance-pay)
+---
+
+---
 
 ## 🔑 How to Get a License Key
 
