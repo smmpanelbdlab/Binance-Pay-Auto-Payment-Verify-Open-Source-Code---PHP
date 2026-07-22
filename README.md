@@ -1,12 +1,12 @@
 ---
 ## 🚀 Demo Link
-
 [https://panel.smmpanelbdlab.com/demo-binance-pay](https://panel.smmpanelbdlab.com/demo-binance-pay)
 
-## [Developer Docu](https://smmpanelbdlab.com/binance-developer-docu)
+
+## [Developer Documentation](https://smmpanelbdlab.com/binance-developer-docu)
 ---
 
----
+
 
 ## 🔑 How to Get a License Key
 
